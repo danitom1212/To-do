@@ -1,0 +1,49 @@
+body{
+    background-color: rgb(0, 0, 0);
+   
+}
+
+
+.alert{
+    border: 5px inset rgb(238, 229, 229);
+    
+}
+.center{
+    text-align:center;
+    background-color: rgb(165, 165, 165);
+    
+
+}
+.list-option{
+    color: var(--bs-body-color);
+    text-align: var(--bs-body-text-align);
+    -webkit-text-size-adjust: 100%;
+    -webkit-tap-highlight-color: transparent;
+    box-sizing: border-box;
+
+    padding-left: 0;
+    border-radius: .25rem;
+    width: auto;
+    max-width: 460px;
+    margin: 4rem ;
+
+}
+
+.to-Do-List{
+    text-align: center;
+
+}
+.area{
+    color: var(--bs-body-color);
+    text-align: var(--bs-body-text-align);
+    -webkit-text-size-adjust: 100%;
+    -webkit-tap-highlight-color: transparent;
+    box-sizing: border-box;
+
+    padding: auto;
+    border-radius: .25rem;
+    width: auto;
+    max-width: 460px;
+    margin: 4rem ;
+}
+
